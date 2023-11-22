@@ -19,8 +19,8 @@ Este projeto é um desafio proposto na plataforma Digital Inovation One
 
 ## Links Úteis
 
-- [Formação OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
-- [Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
-- [Comunidade da OutSystems](https://www.outsystems.com/community/)
-- [Desafio de Projetonº 3](https://web.dio.me/project/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53?back=/track/formacao-outsystems-fundamentals&tab=undefined&moduleId=undefined)
-- [Aplicação DIO Hotel Refatorado](https://personal-qevrasqq.outsystemscloud.com/EndUser_DIOHotel/)
+- Formação [OutSystems Fundamentals](https://web.dio.me/track/formacao-outsystems-fundamentals)
+- Site Oficial da [OutSystems](https://www.outsystems.com/pt-br/)
+- Comunidade da [OutSystems](https://www.outsystems.com/community/)
+- Desafio de Projeto [Refatorando o Projeto de Hotel e Hospedagem com OutSystems](https://web.dio.me/project/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53?back=/track/formacao-outsystems-fundamentals&tab=undefined&moduleId=undefined)
+- Aplicação [DIO Hotel Refatorado](https://personal-qevrasqq.outsystemscloud.com/EndUser_DIOHotel/)
