@@ -1,7 +1,5 @@
 # Sistema de Hotel e Hospedagem Refatorado nas camadas OutSystems
 
-[Aplicação](https://personal-qevrasqq.outsystemscloud.com/EndUser_DIOHotel/)
-
 **Aplicação Web Reativa de um Sistema para Hotelaria e Hospedagem com OutSystem**
 
 Desafio de Projeto nº 3: OutSystems Fundamentals - Refatorando o Projeto de Hotel e Hospedagem com OutSystems
@@ -25,3 +23,4 @@ Este projeto é um desafio proposto na plataforma Digital Inovation One
 - [Site Oficial da OutSystems](https://www.outsystems.com/pt-br/)
 - [Comunidade da OutSystems](https://www.outsystems.com/community/)
 - [Desafio de Projetonº 3](https://web.dio.me/project/refatorando-o-projeto-diohotel/learning/8467bc0c-7c04-4b28-9944-13ec8df92e53?back=/track/formacao-outsystems-fundamentals&tab=undefined&moduleId=undefined)
+- [Aplicação DIO Hotel Refatorado](https://personal-qevrasqq.outsystemscloud.com/EndUser_DIOHotel/)
