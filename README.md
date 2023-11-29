@@ -13,6 +13,11 @@ Desafio de Projeto nº 3: OutSystems Fundamentals - Refatorando o Projeto de Hot
 7. Foi feito um CRUD para a Tabela de Quartos atender todas as necessidades do usuário.
 8. Projeto refatorado nas camadas da OutSystem.
 
+## Utilizar Login de Teste
+
+Username: teste
+Password: 123
+
 ## Desafio DIO
 
 Este projeto é um desafio proposto na plataforma Digital Inovation One
